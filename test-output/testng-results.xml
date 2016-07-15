@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="600803" started-at="2016-07-13T13:51:57Z" finished-at="2016-07-13T14:01:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="600803" started-at="2016-07-13T13:51:57Z" finished-at="2016-07-13T14:01:58Z">
+      <class name="com.projectname.scripts.DriverScriptTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.projectname.scripts.DriverScriptTest@7e0ea639]" name="beforeClass" is-config="true" duration-ms="681" started-at="2016-07-13T19:21:57Z" finished-at="2016-07-13T19:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="driverScript()[pri:0, instance:com.projectname.scripts.DriverScriptTest@7e0ea639]" name="driverScript" duration-ms="600108" started-at="2016-07-13T19:21:58Z" finished-at="2016-07-13T19:31:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverScript -->
+        <test-method status="PASS" signature="endScript()[pri:0, instance:com.projectname.scripts.DriverScriptTest@7e0ea639]" name="endScript" is-config="true" duration-ms="121" started-at="2016-07-13T19:31:58Z" finished-at="2016-07-13T19:31:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endScript -->
+      </class> <!-- com.projectname.scripts.DriverScriptTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

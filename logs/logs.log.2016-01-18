@@ -1,0 +1,230 @@
+2016-01-18 14:42:38 INFO  FunctionLibrary:35 - Initialized All Resources Files
+2016-01-18 14:42:38 INFO  FunctionLibrary:37 - Creatng Driver Script Object
+2016-01-18 14:42:38 INFO  FunctionLibrary:39 - Creating Test Suite
+2016-01-18 14:42:38 INFO  FunctionLibrary:41 - Creating Test Suite For Email Report
+2016-01-18 14:42:38 INFO  FunctionLibrary:26 - Creating Suite In Detailed Test Report
+2016-01-18 14:42:38 INFO  FunctionLibrary:28 - Creating Suite In Mailing Report
+2016-01-18 14:42:38 INFO  FunctionLibrary:33 - Creating Excel Sheet For Test Results
+2016-01-18 14:42:39 INFO  FunctionLibrary:66 - Launching Mozilla Firefox.......
+2016-01-18 14:43:00 INFO  FunctionLibrary:25 - Selecting Test Scenario From Controller File
+2016-01-18 14:43:00 INFO  FunctionLibrary:30 - Navigate To Test Scenario Sheet
+2016-01-18 14:43:00 INFO  FunctionLibrary:37 - Loading Test Data Work Book
+2016-01-18 14:43:00 INFO  FunctionLibrary:49 - Passing Parameters Driver Script to ContolScript
+2016-01-18 14:43:01 INFO  FunctionLibrary:109 - Clicking on Button //*[@id='navbar']/div/a/button
+2016-01-18 14:43:06 INFO  FunctionLibrary:109 - Clicking on Button html/body/div[1]/div/div/div/div[4]/a
+2016-01-18 14:43:09 INFO  FunctionLibrary:194 - Entering Data into //*[@id='id_username']
+2016-01-18 14:43:11 INFO  FunctionLibrary:194 - Entering Data into //*[@id='id_password']
+2016-01-18 14:43:12 INFO  FunctionLibrary:109 - Clicking on Button //html/body/div[1]/div/div/div/form/div[3]/button
+2016-01-18 14:43:16 INFO  FunctionLibrary:69 - Test Scenario Result --Pass
+2016-01-18 14:43:17 INFO  FunctionLibrary:25 - Selecting Test Scenario From Controller File
+2016-01-18 14:43:17 INFO  FunctionLibrary:30 - Navigate To Test Scenario Sheet
+2016-01-18 14:43:17 INFO  FunctionLibrary:37 - Loading Test Data Work Book
+2016-01-18 14:43:17 INFO  FunctionLibrary:49 - Passing Parameters Driver Script to ContolScript
+2016-01-18 14:43:19 INFO  FunctionLibrary:109 - Clicking on Button //div[@class='indent-responsive']/div/div/div/div[2]/div[1]/div[2]/a
+2016-01-18 14:43:23 INFO  FunctionLibrary:109 - Clicking on Button //div[@class='panel-footer']/a
+2016-01-18 14:43:27 INFO  FunctionLibrary:109 - Clicking on Button //img[@alt='Dropbox']
+2016-01-18 14:43:30 INFO  FunctionLibrary:194 - Entering Data into //*[@id='Email']
+2016-01-18 14:43:31 INFO  FunctionLibrary:109 - Clicking on Button //*[@id='next']
+2016-01-18 14:43:32 INFO  FunctionLibrary:194 - Entering Data into //*[@id='Passwd']
+2016-01-18 14:43:34 INFO  FunctionLibrary:109 - Clicking on Button //*[@id='signIn']
+2016-01-18 14:43:36 INFO  FunctionLibrary:332 - Loading Page
+2016-01-18 14:43:47 INFO  FunctionLibrary:109 - Clicking on Button //*[@id='submit_approve_access']
+2016-01-18 14:43:53 INFO  FunctionLibrary:317 - Verifying Text
+2016-01-18 14:43:53 INFO  FunctionLibrary:37 - Excepted Data-------->>Back to top
+2016-01-18 14:43:53 INFO  FunctionLibrary:38 - Actual Data---------->>Back to top
+2016-01-18 14:43:54 INFO  FunctionLibrary:332 - Loading Page
+2016-01-18 14:44:05 INFO  FunctionLibrary:69 - Test Scenario Result --Pass
+2016-01-18 14:44:05 INFO  FunctionLibrary:25 - Selecting Test Scenario From Controller File
+2016-01-18 14:44:06 INFO  FunctionLibrary:30 - Navigate To Test Scenario Sheet
+2016-01-18 14:44:06 INFO  FunctionLibrary:37 - Loading Test Data Work Book
+2016-01-18 14:44:06 INFO  FunctionLibrary:49 - Passing Parameters Driver Script to ContolScript
+2016-01-18 14:44:07 INFO  FunctionLibrary:109 - Clicking on Button //div[@class='indent-responsive']/div/div/div/div[2]/div[1]/div[2]/a
+2016-01-18 14:44:11 INFO  FunctionLibrary:109 - Clicking on Button //div[@class='panel-footer']/a
+2016-01-18 14:44:15 INFO  FunctionLibrary:109 - Clicking on Button //img[@alt='Office365']
+2016-01-18 14:44:19 INFO  FunctionLibrary:194 - Entering Data into //*[@id='cred_userid_inputtext']
+2016-01-18 14:44:25 INFO  FunctionLibrary:194 - Entering Data into //*[@id='cred_password_inputtext']
+2016-01-18 14:44:27 INFO  FunctionLibrary:332 - Loading Page
+2016-01-18 14:44:37 INFO  FunctionLibrary:109 - Clicking on Button //*[@id='cred_sign_in_button']
+2016-01-18 14:44:48 INFO  FunctionLibrary:332 - Loading Page
+2016-01-18 14:45:01 INFO  FunctionLibrary:317 - Verifying Text
+2016-01-18 14:45:02 INFO  FunctionLibrary:37 - Excepted Data-------->>Back to top
+2016-01-18 14:45:02 INFO  FunctionLibrary:38 - Actual Data---------->>Back to top
+2016-01-18 14:45:02 INFO  FunctionLibrary:332 - Loading Page
+2016-01-18 14:45:13 INFO  FunctionLibrary:69 - Test Scenario Result --Pass
+2016-01-18 14:45:13 INFO  FunctionLibrary:25 - Selecting Test Scenario From Controller File
+2016-01-18 14:45:13 INFO  FunctionLibrary:30 - Navigate To Test Scenario Sheet
+2016-01-18 14:45:13 INFO  FunctionLibrary:37 - Loading Test Data Work Book
+2016-01-18 14:45:13 INFO  FunctionLibrary:49 - Passing Parameters Driver Script to ContolScript
+2016-01-18 14:45:14 INFO  FunctionLibrary:109 - Clicking on Button //div[@class='indent-responsive']/div/div/div/div[2]/div[1]/div[2]/a
+2016-01-18 14:45:19 INFO  FunctionLibrary:109 - Clicking on Button //div[@class='panel-footer']/a
+2016-01-18 14:45:23 INFO  FunctionLibrary:109 - Clicking on Button //img[@alt='Microsoft Exchange']
+2016-01-18 14:45:27 INFO  FunctionLibrary:194 - Entering Data into //*[@id='id_email']
+2016-01-18 14:45:28 INFO  FunctionLibrary:194 - Entering Data into //*[@id='id_passwd']
+2016-01-18 14:45:30 INFO  FunctionLibrary:109 - Clicking on Button //form[@class='form']/div[3]
+2016-01-18 14:45:52 INFO  FunctionLibrary:332 - Loading Page
+2016-01-18 14:46:03 INFO  FunctionLibrary:317 - Verifying Text
+2016-01-18 14:46:03 INFO  FunctionLibrary:37 - Excepted Data-------->>Back to top
+2016-01-18 14:46:03 INFO  FunctionLibrary:38 - Actual Data---------->>Back to top
+2016-01-18 14:46:04 INFO  FunctionLibrary:332 - Loading Page
+2016-01-18 14:46:14 INFO  FunctionLibrary:69 - Test Scenario Result --Pass
+2016-01-18 14:46:15 INFO  FunctionLibrary:25 - Selecting Test Scenario From Controller File
+2016-01-18 14:46:15 INFO  FunctionLibrary:30 - Navigate To Test Scenario Sheet
+2016-01-18 14:46:15 INFO  FunctionLibrary:37 - Loading Test Data Work Book
+2016-01-18 14:46:15 INFO  FunctionLibrary:49 - Passing Parameters Driver Script to ContolScript
+2016-01-18 14:46:16 INFO  FunctionLibrary:109 - Clicking on Button //div[@class='indent-responsive']/div/div/div/div[2]/div[2]/div[2]/a
+2016-01-18 14:46:20 INFO  FunctionLibrary:109 - Clicking on Button //div[@class='panel-footer']/a
+2016-01-18 14:46:25 INFO  FunctionLibrary:109 - Clicking on Button //img[@alt='Dropbox']
+2016-01-18 14:46:30 INFO  FunctionLibrary:194 - Entering Data into //input[@name='login_email']
+2016-01-18 14:46:32 INFO  FunctionLibrary:194 - Entering Data into //input[@name='login_password']
+2016-01-18 14:46:33 INFO  FunctionLibrary:109 - Clicking on Button //*[@id='regular-login-forms']/form[1]/div[3]/button
+2016-01-18 14:46:34 INFO  FunctionLibrary:332 - Loading Page
+2016-01-18 14:46:44 INFO  FunctionLibrary:69 - Test Scenario Result --Pass
+2016-01-18 14:46:44 INFO  FunctionLibrary:25 - Selecting Test Scenario From Controller File
+2016-01-18 14:46:45 INFO  FunctionLibrary:30 - Navigate To Test Scenario Sheet
+2016-01-18 14:46:45 INFO  FunctionLibrary:37 - Loading Test Data Work Book
+2016-01-18 14:46:45 INFO  FunctionLibrary:49 - Passing Parameters Driver Script to ContolScript
+2016-01-18 14:46:46 INFO  FunctionLibrary:109 - Clicking on Button //div[@class='indent-responsive']/div/div/div/div[2]/div[2]/div[2]/a
+2016-01-18 14:46:51 INFO  FunctionLibrary:109 - Clicking on Button //div[@class='panel-footer']/a
+2016-01-18 14:46:54 INFO  FunctionLibrary:109 - Clicking on Button //img[@alt='Box']
+2016-01-18 14:46:58 INFO  FunctionLibrary:194 - Entering Data into //*[@id='login']
+2016-01-18 14:46:59 INFO  FunctionLibrary:194 - Entering Data into //*[@id='password']
+2016-01-18 14:47:00 INFO  FunctionLibrary:109 - Clicking on Button //div[@class='login_submit_div']/input
+2016-01-18 14:47:02 INFO  FunctionLibrary:332 - Loading Page
+2016-01-18 14:47:13 INFO  FunctionLibrary:109 - Clicking on Button //*[@id='consent_accept_button']
+2016-01-18 14:47:19 INFO  FunctionLibrary:317 - Verifying Text
+2016-01-18 14:47:19 INFO  FunctionLibrary:37 - Excepted Data-------->>Back to top
+2016-01-18 14:47:19 INFO  FunctionLibrary:38 - Actual Data---------->>Back to top
+2016-01-18 14:47:20 INFO  FunctionLibrary:332 - Loading Page
+2016-01-18 14:47:31 INFO  FunctionLibrary:69 - Test Scenario Result --Pass
+2016-01-18 14:47:31 INFO  FunctionLibrary:25 - Selecting Test Scenario From Controller File
+2016-01-18 14:47:31 INFO  FunctionLibrary:30 - Navigate To Test Scenario Sheet
+2016-01-18 14:47:31 INFO  FunctionLibrary:37 - Loading Test Data Work Book
+2016-01-18 14:47:32 INFO  FunctionLibrary:49 - Passing Parameters Driver Script to ContolScript
+2016-01-18 14:47:32 INFO  FunctionLibrary:109 - Clicking on Button //div[@class='indent-responsive']/div/div/div/div[2]/div[2]/div[2]/a
+2016-01-18 14:47:37 INFO  FunctionLibrary:109 - Clicking on Button //div[@class='panel-footer']/a
+2016-01-18 14:47:40 INFO  FunctionLibrary:109 - Clicking on Button //img[@alt='Microsoft Onedrive']
+2016-01-18 14:47:43 INFO  FunctionLibrary:194 - Entering Data into //input[@name='loginfmt']
+2016-01-18 14:47:44 INFO  FunctionLibrary:194 - Entering Data into //input[@name='passwd']
+2016-01-18 14:47:45 INFO  FunctionLibrary:109 - Clicking on Button //*[@id='idSIButton9']
+2016-01-18 14:47:52 INFO  FunctionLibrary:332 - Loading Page
+2016-01-18 14:48:02 INFO  FunctionLibrary:317 - Verifying Text
+2016-01-18 14:48:03 INFO  FunctionLibrary:37 - Excepted Data-------->>Back to top
+2016-01-18 14:48:03 INFO  FunctionLibrary:38 - Actual Data---------->>Back to top
+2016-01-18 14:48:04 INFO  FunctionLibrary:332 - Loading Page
+2016-01-18 14:48:14 INFO  FunctionLibrary:69 - Test Scenario Result --Pass
+2016-01-18 14:48:14 INFO  FunctionLibrary:25 - Selecting Test Scenario From Controller File
+2016-01-18 16:42:09 INFO  FunctionLibrary:35 - Initialized All Resources Files
+2016-01-18 16:42:09 INFO  FunctionLibrary:37 - Creatng Driver Script Object
+2016-01-18 16:42:09 INFO  FunctionLibrary:39 - Creating Test Suite
+2016-01-18 16:42:10 INFO  FunctionLibrary:41 - Creating Test Suite For Email Report
+2016-01-18 16:42:10 INFO  FunctionLibrary:26 - Creating Suite In Detailed Test Report
+2016-01-18 16:42:10 INFO  FunctionLibrary:28 - Creating Suite In Mailing Report
+2016-01-18 16:42:10 INFO  FunctionLibrary:33 - Creating Excel Sheet For Test Results
+2016-01-18 16:42:11 INFO  FunctionLibrary:66 - Launching Mozilla Firefox.......
+2016-01-18 16:42:37 INFO  FunctionLibrary:25 - Selecting Test Scenario From Controller File
+2016-01-18 16:42:37 INFO  FunctionLibrary:30 - Navigate To Test Scenario Sheet
+2016-01-18 16:42:38 INFO  FunctionLibrary:37 - Loading Test Data Work Book
+2016-01-18 16:42:38 INFO  FunctionLibrary:49 - Passing Parameters Driver Script to ContolScript
+2016-01-18 16:42:39 INFO  FunctionLibrary:109 - Clicking on Button //*[@id='navbar']/div/a/button
+2016-01-18 16:42:55 INFO  FunctionLibrary:109 - Clicking on Button html/body/div[1]/div/div/div/div[4]/a
+2016-01-18 16:42:58 INFO  FunctionLibrary:194 - Entering Data into //*[@id='id_username']
+2016-01-18 16:43:00 INFO  FunctionLibrary:194 - Entering Data into //*[@id='id_password']
+2016-01-18 16:43:02 INFO  FunctionLibrary:109 - Clicking on Button //html/body/div[1]/div/div/div/form/div[3]/button
+2016-01-18 16:43:07 INFO  FunctionLibrary:69 - Test Scenario Result --Pass
+2016-01-18 16:43:07 INFO  FunctionLibrary:25 - Selecting Test Scenario From Controller File
+2016-01-18 16:43:08 INFO  FunctionLibrary:30 - Navigate To Test Scenario Sheet
+2016-01-18 16:43:08 INFO  FunctionLibrary:37 - Loading Test Data Work Book
+2016-01-18 16:43:08 INFO  FunctionLibrary:49 - Passing Parameters Driver Script to ContolScript
+2016-01-18 16:43:10 INFO  FunctionLibrary:109 - Clicking on Button //div[@class='indent-responsive']/div/div/div/div[2]/div[1]/div[2]/a
+2016-01-18 16:43:15 INFO  FunctionLibrary:109 - Clicking on Button //div[@class='panel-footer']/a
+2016-01-18 16:43:20 INFO  FunctionLibrary:109 - Clicking on Button //img[@alt='Dropbox']
+2016-01-18 16:43:23 INFO  FunctionLibrary:194 - Entering Data into //*[@id='Email']
+2016-01-18 16:43:24 INFO  FunctionLibrary:109 - Clicking on Button //*[@id='next']
+2016-01-18 16:43:26 INFO  FunctionLibrary:194 - Entering Data into //*[@id='Passwd']
+2016-01-18 16:43:27 INFO  FunctionLibrary:109 - Clicking on Button //*[@id='signIn']
+2016-01-18 16:43:30 INFO  FunctionLibrary:332 - Loading Page
+2016-01-18 16:43:41 INFO  FunctionLibrary:109 - Clicking on Button //*[@id='submit_approve_access']
+2016-01-18 16:43:47 INFO  FunctionLibrary:317 - Verifying Text
+2016-01-18 16:43:47 INFO  FunctionLibrary:37 - Excepted Data-------->>Back to top
+2016-01-18 16:43:47 INFO  FunctionLibrary:38 - Actual Data---------->>Back to top
+2016-01-18 16:43:48 INFO  FunctionLibrary:332 - Loading Page
+2016-01-18 16:44:00 INFO  FunctionLibrary:69 - Test Scenario Result --Pass
+2016-01-18 16:44:01 INFO  FunctionLibrary:25 - Selecting Test Scenario From Controller File
+2016-01-18 16:44:01 INFO  FunctionLibrary:30 - Navigate To Test Scenario Sheet
+2016-01-18 16:44:01 INFO  FunctionLibrary:37 - Loading Test Data Work Book
+2016-01-18 16:44:01 INFO  FunctionLibrary:49 - Passing Parameters Driver Script to ContolScript
+2016-01-18 16:44:02 INFO  FunctionLibrary:109 - Clicking on Button //div[@class='indent-responsive']/div/div/div/div[2]/div[1]/div[2]/a
+2016-01-18 16:44:07 INFO  FunctionLibrary:109 - Clicking on Button //div[@class='panel-footer']/a
+2016-01-18 16:44:11 INFO  FunctionLibrary:109 - Clicking on Button //img[@alt='Office365']
+2016-01-18 16:44:15 INFO  FunctionLibrary:194 - Entering Data into //*[@id='cred_userid_inputtext']
+2016-01-18 16:44:22 INFO  FunctionLibrary:194 - Entering Data into //*[@id='cred_password_inputtext']
+2016-01-18 16:44:23 INFO  FunctionLibrary:332 - Loading Page
+2016-01-18 16:44:34 INFO  FunctionLibrary:109 - Clicking on Button //*[@id='cred_sign_in_button']
+2016-01-18 16:44:42 INFO  FunctionLibrary:332 - Loading Page
+2016-01-18 16:44:56 INFO  FunctionLibrary:317 - Verifying Text
+2016-01-18 16:44:57 INFO  FunctionLibrary:37 - Excepted Data-------->>Back to top
+2016-01-18 16:44:57 INFO  FunctionLibrary:38 - Actual Data---------->>Back to top
+2016-01-18 16:44:58 INFO  FunctionLibrary:332 - Loading Page
+2016-01-18 16:45:08 INFO  FunctionLibrary:69 - Test Scenario Result --Pass
+2016-01-18 16:45:08 INFO  FunctionLibrary:25 - Selecting Test Scenario From Controller File
+2016-01-18 16:45:08 INFO  FunctionLibrary:30 - Navigate To Test Scenario Sheet
+2016-01-18 16:45:09 INFO  FunctionLibrary:37 - Loading Test Data Work Book
+2016-01-18 16:45:09 INFO  FunctionLibrary:49 - Passing Parameters Driver Script to ContolScript
+2016-01-18 16:45:10 INFO  FunctionLibrary:109 - Clicking on Button //div[@class='indent-responsive']/div/div/div/div[2]/div[1]/div[2]/a
+2016-01-18 16:45:15 INFO  FunctionLibrary:109 - Clicking on Button //div[@class='panel-footer']/a
+2016-01-18 16:45:19 INFO  FunctionLibrary:109 - Clicking on Button //img[@alt='Microsoft Exchange']
+2016-01-18 16:45:23 INFO  FunctionLibrary:194 - Entering Data into //*[@id='id_email']
+2016-01-18 16:45:24 INFO  FunctionLibrary:194 - Entering Data into //*[@id='id_passwd']
+2016-01-18 16:45:26 INFO  FunctionLibrary:109 - Clicking on Button //form[@class='form']/div[3]
+2016-01-18 16:45:47 INFO  FunctionLibrary:332 - Loading Page
+2016-01-18 16:45:58 INFO  FunctionLibrary:317 - Verifying Text
+2016-01-18 16:45:58 INFO  FunctionLibrary:37 - Excepted Data-------->>Back to top
+2016-01-18 16:45:58 INFO  FunctionLibrary:38 - Actual Data---------->>Back to top
+2016-01-18 16:45:59 INFO  FunctionLibrary:332 - Loading Page
+2016-01-18 16:46:10 INFO  FunctionLibrary:69 - Test Scenario Result --Pass
+2016-01-18 16:46:10 INFO  FunctionLibrary:25 - Selecting Test Scenario From Controller File
+2016-01-18 16:46:10 INFO  FunctionLibrary:30 - Navigate To Test Scenario Sheet
+2016-01-18 16:46:11 INFO  FunctionLibrary:37 - Loading Test Data Work Book
+2016-01-18 16:46:11 INFO  FunctionLibrary:49 - Passing Parameters Driver Script to ContolScript
+2016-01-18 16:46:12 INFO  FunctionLibrary:109 - Clicking on Button //div[@class='indent-responsive']/div/div/div/div[2]/div[2]/div[2]/a
+2016-01-18 16:46:17 INFO  FunctionLibrary:109 - Clicking on Button //div[@class='panel-footer']/a
+2016-01-18 16:46:21 INFO  FunctionLibrary:109 - Clicking on Button //img[@alt='Dropbox']
+2016-01-18 16:46:28 INFO  FunctionLibrary:194 - Entering Data into //input[@name='login_email']
+2016-01-18 16:46:29 INFO  FunctionLibrary:194 - Entering Data into //input[@name='login_password']
+2016-01-18 16:46:30 INFO  FunctionLibrary:109 - Clicking on Button //*[@id='regular-login-forms']/form[1]/div[3]/button
+2016-01-18 16:46:32 INFO  FunctionLibrary:332 - Loading Page
+2016-01-18 16:46:42 INFO  FunctionLibrary:69 - Test Scenario Result --Pass
+2016-01-18 16:46:43 INFO  FunctionLibrary:25 - Selecting Test Scenario From Controller File
+2016-01-18 16:46:43 INFO  FunctionLibrary:30 - Navigate To Test Scenario Sheet
+2016-01-18 16:46:43 INFO  FunctionLibrary:37 - Loading Test Data Work Book
+2016-01-18 16:46:43 INFO  FunctionLibrary:49 - Passing Parameters Driver Script to ContolScript
+2016-01-18 16:46:45 INFO  FunctionLibrary:109 - Clicking on Button //div[@class='indent-responsive']/div/div/div/div[2]/div[2]/div[2]/a
+2016-01-18 16:46:50 INFO  FunctionLibrary:109 - Clicking on Button //div[@class='panel-footer']/a
+2016-01-18 16:46:54 INFO  FunctionLibrary:109 - Clicking on Button //img[@alt='Box']
+2016-01-18 16:46:58 INFO  FunctionLibrary:194 - Entering Data into //*[@id='login']
+2016-01-18 16:46:59 INFO  FunctionLibrary:194 - Entering Data into //*[@id='password']
+2016-01-18 16:47:00 INFO  FunctionLibrary:109 - Clicking on Button //div[@class='login_submit_div']/input
+2016-01-18 16:47:02 INFO  FunctionLibrary:332 - Loading Page
+2016-01-18 16:47:13 INFO  FunctionLibrary:109 - Clicking on Button //*[@id='consent_accept_button']
+2016-01-18 16:47:20 INFO  FunctionLibrary:317 - Verifying Text
+2016-01-18 16:47:20 INFO  FunctionLibrary:37 - Excepted Data-------->>Back to top
+2016-01-18 16:47:20 INFO  FunctionLibrary:38 - Actual Data---------->>Back to top
+2016-01-18 16:47:21 INFO  FunctionLibrary:332 - Loading Page
+2016-01-18 16:47:33 INFO  FunctionLibrary:69 - Test Scenario Result --Pass
+2016-01-18 16:47:33 INFO  FunctionLibrary:25 - Selecting Test Scenario From Controller File
+2016-01-18 16:47:33 INFO  FunctionLibrary:30 - Navigate To Test Scenario Sheet
+2016-01-18 16:47:33 INFO  FunctionLibrary:37 - Loading Test Data Work Book
+2016-01-18 16:47:33 INFO  FunctionLibrary:49 - Passing Parameters Driver Script to ContolScript
+2016-01-18 16:47:34 INFO  FunctionLibrary:109 - Clicking on Button //div[@class='indent-responsive']/div/div/div/div[2]/div[2]/div[2]/a
+2016-01-18 16:47:39 INFO  FunctionLibrary:109 - Clicking on Button //div[@class='panel-footer']/a
+2016-01-18 16:47:43 INFO  FunctionLibrary:109 - Clicking on Button //img[@alt='Microsoft Onedrive']
+2016-01-18 16:47:47 INFO  FunctionLibrary:194 - Entering Data into //input[@name='loginfmt']
+2016-01-18 16:47:49 INFO  FunctionLibrary:194 - Entering Data into //input[@name='passwd']
+2016-01-18 16:47:50 INFO  FunctionLibrary:109 - Clicking on Button //*[@id='idSIButton9']
+2016-01-18 16:47:59 INFO  FunctionLibrary:332 - Loading Page
+2016-01-18 16:48:10 INFO  FunctionLibrary:317 - Verifying Text
+2016-01-18 16:48:10 INFO  FunctionLibrary:37 - Excepted Data-------->>Back to top
+2016-01-18 16:48:10 INFO  FunctionLibrary:38 - Actual Data---------->>Back to top
+2016-01-18 16:48:11 INFO  FunctionLibrary:332 - Loading Page
+2016-01-18 16:48:21 INFO  FunctionLibrary:69 - Test Scenario Result --Pass
+2016-01-18 16:48:22 INFO  FunctionLibrary:25 - Selecting Test Scenario From Controller File

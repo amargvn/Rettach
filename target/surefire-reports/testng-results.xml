@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="930669" started-at="2016-01-28T06:38:23Z" finished-at="2016-01-28T06:53:54Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="930669" started-at="2016-01-28T06:38:23Z" finished-at="2016-01-28T06:53:54Z">
+      <class name="com.projectname.utils.TestUtil">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.projectname.utils.TestUtil@34b7bfc0]" name="beforeClass" is-config="true" duration-ms="617" started-at="2016-01-28T12:15:57Z" finished-at="2016-01-28T12:15:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="driverScript()[pri:0, instance:com.projectname.utils.TestUtil@34b7bfc0]" name="driverScript" duration-ms="476412" started-at="2016-01-28T12:15:58Z" finished-at="2016-01-28T12:23:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverScript -->
+      </class> <!-- com.projectname.utils.TestUtil -->
+      <class name="com.projectname.scripts.DriverScriptTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.projectname.scripts.DriverScriptTest@67b6d4ae]" name="beforeClass" is-config="true" duration-ms="951" started-at="2016-01-28T12:08:23Z" finished-at="2016-01-28T12:08:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="driverScript()[pri:0, instance:com.projectname.scripts.DriverScriptTest@67b6d4ae]" name="driverScript" duration-ms="452678" started-at="2016-01-28T12:08:24Z" finished-at="2016-01-28T12:15:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverScript -->
+        <test-method status="PASS" signature="endScript()[pri:0, instance:com.projectname.scripts.DriverScriptTest@67b6d4ae]" name="endScript" is-config="true" duration-ms="121" started-at="2016-01-28T12:23:54Z" finished-at="2016-01-28T12:23:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endScript -->
+      </class> <!-- com.projectname.scripts.DriverScriptTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
